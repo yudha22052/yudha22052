@@ -1,6 +1,8 @@
-## Hi there 👋
+# ✨ Welcome to My World!
+Halo! 👋  
+Di sini saya berbagi project, eksperimen, dan ide-ide menarik seputar teknologi dan pengembangan web.  
+Setiap baris kode adalah langkah kecil menuju sesuatu yang lebih besar 💡
 
-<img src="C:\Pictures\image123.jpg">
 
 <!--
 **yudha22052/yudha22052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
