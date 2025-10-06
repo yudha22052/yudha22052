@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Screenshot](Screenshot (230).png)
+<img src="C:\Users\Yudha\Pictures\image123.jpg">
+
 <!--
 **yudha22052/yudha22052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
